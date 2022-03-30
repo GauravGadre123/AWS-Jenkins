@@ -9,7 +9,7 @@ public class MyController {
 	@RequestMapping("/get")
 	public String getName() 
 	{
-		return "code by Gaurav";
+		return "code by Gaurav.Auto deployment on gcp using jenkins";
 	}
 	
 }  
