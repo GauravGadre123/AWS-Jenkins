@@ -10,6 +10,6 @@ public class MyController {
 	public String getName() 
 	{
 		return "code by Gaurav.Auto deployment on gcp using jenkins";
-	}
+	} 
 	
 }  
