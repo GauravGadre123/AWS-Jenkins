@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MyController {
 
 	@RequestMapping("/get")
-	public String getName() 
+	public String get() 
 	{
 		return "code by Gaurav.Auto deployment on gcp using jenkins";
 	} 
